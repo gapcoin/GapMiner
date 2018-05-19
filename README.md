@@ -43,6 +43,7 @@ Plus, currently it's only for Linux. Sorry.
   cd src/Evolution
   git submodule init
   git submodule update
+  cd GapMiner
   make all
   make install
 ```
